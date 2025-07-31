@@ -11,7 +11,7 @@
 
 ## Dashboard Preview (Profitability Analysis)
 
-![Dashboard Preview](/profitability_analysis.png)
+![Profitability Analysis Preview](/profitability_analysis.png)
 
 ## Highlights (TL;DR)
 
@@ -82,7 +82,7 @@ Insights supported the design of a Power BI dashboard for ongoing strategic use.
 
 ---
 ## Final Dashboard
-![Profitability Analysis Preview](/preview.png)
+![Dashboard Preview](/preview.png)
 
 ## Tools & Technologies
 
