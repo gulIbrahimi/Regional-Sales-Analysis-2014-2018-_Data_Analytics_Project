@@ -9,7 +9,7 @@
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview (Profitability Analysis)
 
 ![Dashboard Preview](/preview.png)
 
@@ -79,9 +79,10 @@ Insights supported the design of a Power BI dashboard for ongoing strategic use.
 - Visualized price vs. margin scatter and pricing sweet spots
 - Identified margin leakage from outlier pricing patterns
 - Recommended dynamic pricing strategies by product tier
-![Profitability Analysis Preview](/profitability_analysis.png)
 
 ---
+## Final Dashboard
+![Profitability Analysis Preview](/profitability_analysis.png)
 
 ## 🛠 Tools & Technologies
 
@@ -108,6 +109,6 @@ jupyter notebook
 ## Contact
 Name: Gul Amiz Ibrahimi
 Email: ibrah23g@mtholyoke.edu
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/flora-ibrahimi-3340a3254/
 Portfolio: gulibrahimi.com
-# Regional-Sales-Analysis-2014-2018-_Data_Analytics_Project
+
