@@ -9,7 +9,7 @@
 
 ---
 
-## Dashboard Preview (Profitability Analysis)
+## Dashboard Preview
 
 ![Profitability Analysis Preview](/profitability_analysis.png)
 
