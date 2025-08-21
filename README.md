@@ -27,6 +27,8 @@
 
 This project simulates a real-world business case where **Acme Co.** seeks to boost profit, diversify market presence, and plan smarter campaigns. Through in-depth analysis and data storytelling, I uncovered **revenue risks**, **high-potential products**, and **customer segments** to support pricing, retention, and market-expansion strategy.
 
+## Collaborator: Roqia Ibrahimi | @roqiaibrahimi
+
 ---
 
 ## Problem
